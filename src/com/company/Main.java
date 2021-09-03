@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	System.out.print("ny pc github test")
+	System.out.print("ny pc github test");
     }
 }
